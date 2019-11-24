@@ -1,0 +1,3 @@
+﻿CREATE TABLE tSQLt.Private_NewTestClassList (
+  ClassName NVARCHAR(450) PRIMARY KEY CLUSTERED
+);

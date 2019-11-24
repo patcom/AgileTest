@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "AgileTest", "AgileTest.sqlproj", "{970814EB-6726-4771-90E0-A5918DCAA0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970814EB-6726-4771-90E0-A5918DCAA0CE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B933D5F-7060-4CE8-A9D0-67A6F88409DC}
+	EndGlobalSection
+EndGlobal
